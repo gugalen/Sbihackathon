@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SBIHackathon</string>
+    <string name="action_continue">Continue</string>
+
+    <string name="name"><b>Beneficiary Name</b></string>
+    <string name="acc_no"><b>Acc/No</b></string>
+    <string name="bank_name"><b>Bank Name</b></string>
+    <string name="date"><b>Date</b></string>
+    <string name="amt"><b>Amount</b></string>
+    <string name="acc_type"><b>Account Type</b></string>
+    <string name="confirm"><b>Confirm</b></string>
+    <string name="rupee">\u20B9</string>
+    <string name="amountDigit">Amount in Digit</string>
+    <string name="amountWords">Amount in Words</string>
+    <string name="chequeNum">Cheque Number</string>
+    <string name="micrCode">MICR Code</string>
+
+</resources>
