@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SBIHackathon.iml" filepath="$PROJECT_DIR$/SBIHackathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sbihackathon.iml" filepath="$PROJECT_DIR$/Sbihackathon.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
